@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="frios2 (7ceb211f-234b-4dbf-879a-891d5677d873)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.3mE8crhAwx" local="$PROJECT_DIR$/Semestralna_Praca_POS-master" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/Semestralna_Praca_POS-master/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
